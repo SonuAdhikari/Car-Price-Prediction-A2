@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/ML/Cars Price Prediction Project - A2/cars price prediction
+  project - A2/_mlflow/mlruns/335251914999876645/cd80bfda454f42e29e444b453b493a09/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '335251914999876645'
+lifecycle_stage: active
+run_id: cd80bfda454f42e29e444b453b493a09
+run_name: method-batch-lr-0.1-reg-Ridge
+run_uuid: cd80bfda454f42e29e444b453b493a09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694717959664
+status: 1
+tags: []
+user_id: sonu

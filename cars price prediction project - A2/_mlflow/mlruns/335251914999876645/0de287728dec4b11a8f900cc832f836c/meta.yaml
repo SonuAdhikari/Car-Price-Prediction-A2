@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/ML/Cars Price Prediction Project - A2/cars price prediction
+  project - A2/_mlflow/mlruns/335251914999876645/0de287728dec4b11a8f900cc832f836c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '335251914999876645'
+lifecycle_stage: active
+run_id: 0de287728dec4b11a8f900cc832f836c
+run_name: polynomial-yes-method-batch-lr-0.01-reg-Ridge-theta_init-zeros-momentum-without
+run_uuid: 0de287728dec4b11a8f900cc832f836c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694786159163
+status: 1
+tags: []
+user_id: sonu

@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/ML/Cars Price Prediction Project - A2/cars price prediction
+  project - A2/_mlflow/mlruns/335251914999876645/0d8ccb7a4d354a2ba6eb0ae1e925031a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '335251914999876645'
+lifecycle_stage: active
+run_id: 0d8ccb7a4d354a2ba6eb0ae1e925031a
+run_name: function-linear-reg-Normal-momentum-0-method-sto-w_init-zero-lr-0.01
+run_uuid: 0d8ccb7a4d354a2ba6eb0ae1e925031a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694786461283
+status: 1
+tags: []
+user_id: sonu
